@@ -16,6 +16,7 @@ The student scorer web app is basically going to be used for maintaining all the
 The whole frontend and backend of the application has to be all built from RemixJS.
 
 Hint: Google remix full stack application. In short, have a separate routing structure in the folder for backend APIs and a db folder to write the database queries to fetch the data from the SQLite Database.
+https://developers.cloudflare.com/pages/framework-guides/deploy-a-remix-site/
 
 # Checkpoints
 
